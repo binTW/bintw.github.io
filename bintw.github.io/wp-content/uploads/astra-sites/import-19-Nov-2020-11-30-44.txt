@@ -1,0 +1,25 @@
+
+---- Processing WordPress Page - for Gutenberg ---- "572"
+Source - https://websitedemos.net/motivational-speaker-08/wp-content/uploads/sites/705/2018/12/hero02-small-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/motivational-speaker-08/wp-content/uploads/sites/705/2018/12/hero02-small-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/motivational-speaker-08\/wp-content\/uploads\/sites\/705\/2018\/12\/hero02-small-free-img.jpg","id":0}
+Inserted - Post 573 - attachment - hero02-small-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/rivervalleystyle/wp-content/uploads/2020/11/hero02-small-free-img.jpg
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "631"
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/landscape-mountains-sky-4843193.jpg
+Log - {"id":"497","url":"http:\/\/localhost:8888\/rivervalleystyle\/wp-content\/uploads\/2020\/04\/landscape-mountains-sky-4843193.jpg"}
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/08/fog-in-mountain.jpg
+Log - {"id":"471","url":"http:\/\/localhost:8888\/rivervalleystyle\/wp-content\/uploads\/2020\/08\/fog-in-mountain.jpg"}
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/snowy-mountain-1287145.jpg
+Log - {"id":"499","url":"http:\/\/localhost:8888\/rivervalleystyle\/wp-content\/uploads\/2020\/04\/snowy-mountain-1287145.jpg"}
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg
+Log - {"id":"500","url":"http:\/\/localhost:8888\/rivervalleystyle\/wp-content\/uploads\/2020\/04\/photo-of-people-standing-on-top-of-mountain-near-grasses-733162.jpg"}
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/fogs-on-green-mountain-1054222.jpg
+Log - {"id":"501","url":"http:\/\/localhost:8888\/rivervalleystyle\/wp-content\/uploads\/2020\/04\/fogs-on-green-mountain-1054222.jpg"}
+Source - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/logo1-dark.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/mountain-08/wp-content/uploads/sites/584/2020/04/logo1-dark.png
+Log - {"url":"https:\/\/websitedemos.net\/mountain-08\/wp-content\/uploads\/sites\/584\/2020\/04\/logo1-dark.png","id":0}
+Inserted - Post 632 - attachment - logo1-dark.png
+BATCH - SUCCESS Image {Imported} - http://localhost:8888/rivervalleystyle/wp-content/uploads/2020/11/logo1-dark.png
+Complete 
